@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Perjalanan Perjuangan Eberimen Unuwe</title>
+<style>
+body{margin:0;font-family:Arial;background:#0f0f0f;color:white}
+.hero{padding:50px 20px;background:linear-gradient(#000,#222)}
+h1{font-size:38px;line-height:1} span{color:#facc15}
+.card{background:#1e1e1e;margin:15px 0;padding:20px;border-radius:16px;border:1px solid #333}
+.btn{background:#facc15;color:black;padding:12px 24px;border-radius:99px;text-decoration:none;font-weight:bold;display:inline-block;margin-top:10px}
+section{max-width:700px;margin:auto;padding:20px}
+</style>
+</head>
+<body>
+<div class="hero">
+<h1>PERJALANAN<br><span>PERJUANGAN</span><br>EBERIMEN UNUWE</h1>
+<p>Dari Sekayu, Musi Banyuasin, Sumatera Selatan - Anak Sungai Musi yang tidak pernah berhenti bermimpi.</p>
+<a class="btn" href="#kisah">Baca Kisah Perjuangan</a>
+</div>
+
+<section id="kisah">
+<div class="card">
+<h3 style="color:#facc15">Tentang Saya</h3>
+<p>Halo, saya <b>Eberimen Unuwe</b>. Saya dari Sekayu. Website ini adalah bukti perjuangan saya belajar membuat website dari nol.</p>
+</div>
+
+<div class="card">
+<h3 style="color:#facc15">Bab 1: Dari Sekayu</h3>
+<p>Saya lahir di Sekayu. Kota kecil di tepi Sungai Musi. Banyak yang bilang di sini tidak ada masa depan. Tapi saya percaya, dari tempat kecil pun bisa lahir mimpi besar.</p>
+</div>
+
+<div class="card">
+<h3 style="color:#facc15">Bab 2: Jatuh Bangun</h3>
+<p>Perjalanan saya tidak mudah. Pernah gagal, pernah ditertawakan, pernah bingung mau kemana. Tapi saya belajar dari sungai Musi: terus mengalir walau banyak rintangan. Jangan berhenti.</p>
+</div>
+
+<div class="card">
+<h3 style="color:#facc15">Bab 3: Website Ini Adalah Perjuangan</h3>
+<p>Website <b>unuweeberimen-debug.github.io</b> ini saya buat sendiri. Belajar kode, error, hapus, buat lagi. Sama seperti hidup. Ini bukan soal hebat, tapi soal berani mencoba.</p>
+</div>
+
+<div class="card" style="background:#facc15;color:black;text-align:center">
+<h3 style="margin:0">EBERIMEN UNUWE</h3>
+<p>Sekayu, Sumsel - Indonesia<br>IG: @unuweeberimen<br>30 Oktober 2026</p>
+<p style="font-size:12px;margin-top:10px">Dibuat dengan perjuangan dari Sekayu</p>
+</div>
+
+<p style="text-align:center;opacity:0.5;font-size:11px;margin-top:30px">© 2026 Perjalanan Perjuangan Eberimen Unuwe</p>
+</section>
+</body>
+</html>
